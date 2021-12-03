@@ -1,4 +1,5 @@
 *.mir4global.com
+*.duokaiqi.cn
 lancache.steamcontent.com
 *.content.steampowered.com
 content1.steampowered.com
