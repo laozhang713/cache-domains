@@ -14,3 +14,8 @@ cdn.blizzard.com
 *.cdn.blizzard.com
 *.mir4global.com
 *.lingwazi.com
+live-dl.mir4global.com.qdownload.sched.ovscdns.com
+*.mir4global.com.qdownload.sched.ovscdns.com
+live-dl.mir4global.com.cdn.dnsv1.com
+*.mir4global.com.cdn.dnsv1.com
+ap-live-dl.mir4global.com
